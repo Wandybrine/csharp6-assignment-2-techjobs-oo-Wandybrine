@@ -5,8 +5,6 @@ namespace TechJobsOO.Tests
 	public class TestTask3
 	{
         //Testing the new Job class.  Tests are numbered.
-
-        /* TODO: Task 3: Remove this line to uncomment the tests
           
      
         [TestMethod]    //1
@@ -132,7 +130,7 @@ namespace TechJobsOO.Tests
             Assert.AreNotEqual(testJob1.GetHashCode(), testJob2.GetHashCode(), "GetHashCode output test");
         }
 
-        TODO: Task 3: Remove this line to uncomment the tests */
+
     }
 }
 
